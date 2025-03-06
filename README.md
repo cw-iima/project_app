@@ -28,7 +28,7 @@ npm run start
 The Application Runs on **localhost:3000**
 ## Setting Up GitHub Pages
 Open GitHub - `https://github.com/[user_name]/[repo_name]/`
- 1.	Create a new branch named as `gh_pages`
+ 1.	Create a new branch named as `gh-pages` from GitHub website - `https://github.com/[user_name]/[repo_name]/branches`
  2.	Go to settings page - `https://github.com/[user_name]/[repo_name]/settings/`
  3.	Go to the **Pages** tab
  4.	Ensure that the branch `gh_pages` is set as the default branch to be deployed
